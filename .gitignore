@@ -32,3 +32,7 @@ tasks.json
 # OS
 .DS_Store
 Thumbs.db
+
+# Security and test reports
+bandit-report.json
+.pytest_cache/
